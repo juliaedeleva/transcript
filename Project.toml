@@ -1,0 +1,13 @@
+name = "Transcripts"
+uuid = "ecc3a07c-47ae-4f79-9316-36c9e70aa2c7"
+authors = ["rail.lexis and contributors"]
+version = "1.0.0-DEV"
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+
+[compat]
+HTTP = "1.10.16"
+JSON = "0.21.4"
+julia = "1.10"

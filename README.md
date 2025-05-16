@@ -1,6 +1,6 @@
 # transcript for rail.lexis
 
- [![License: MIT][license-img]][license-url] [![All Contributors][Contributors-img]][Contributors-url]
+ [![License: MIT][license-img]][license-url] [![All Contributors][Contributors-img]][Contributors-url] [![Dev][dev-img]][dev-url] [![Build Status][build-img]][build-url] [![Coverage][coverage-img]][coverage-url] [![ColPrac: Contributor's Guide on Collaborative Practices for Community Packages][ColPrac-img]][ColPrac-url] [![PkgEval][PkgEval-img]][PkgEval-url] [![Aqua][Aqua-img]][Aqua-url]
 
 ## API
 Using the OpenAI API for transcription:
@@ -52,3 +52,21 @@ Note: Keep your API key secure and never commit it to version control.
 
 [Contributors-img]: https://img.shields.io/github/all-contributors/raillexis/transcript?color=ee8449&style=flat-square
 [Contributors-url]: #Contributors
+
+[dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
+[dev-url]: https://raillexis.github.io/Transcripts.jl/dev/
+
+[build-img]: https://github.com/raillexis/Transcripts.jl/actions/workflows/CI.yml/badge.svg?branch=main
+[build-url]: https://github.com/raillexis/Transcripts.jl/actions/workflows/CI.yml?query=branch%3Amain
+
+[coverage-img]: https://codecov.io/gh/raillexis/Transcripts.jl/branch/main/graph/badge.svg
+[coverage-url]: https://codecov.io/gh/raillexis/Transcripts.jl
+
+[ColPrac-img]: https://img.shields.io/badge/ColPrac-Contributor's%20Guide-blueviolet
+[ColPrac-url]: https://github.com/SciML/ColPrac
+
+[PkgEval-img]: https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/T/Transcripts.svg
+[PkgEval-url]: (https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/T/Transcripts.html
+
+[Aqua-img]: https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg
+[Aqua-url]: https://github.com/JuliaTesting/Aqua.jl
